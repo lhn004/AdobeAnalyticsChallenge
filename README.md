@@ -19,8 +19,9 @@ In our project, we will identify differences between business and leisure travel
   - Secondary Metrics: People, Session, Event:
     This metric measures the long-term relationship between business and customers so it will help us identify the differences in digital usages across different types of customers 
   - Additional Metrics: Time Spent per Session:
-    
+    This metrics helps give insights into the underlying decision-making process of different types of customers towards a successful coversion.
     
 ### 2. Finding & Insights
+
 ### 3. Recommendations
   
